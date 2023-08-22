@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\semester\SE\hw2\Part1\TriangleTestSystem\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
